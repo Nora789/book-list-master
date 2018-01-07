@@ -1,3 +1,7 @@
+# Description
+This is a part of the course whose information is showed below.
+It manages app state with Redux, showing different book details when clicking book names.
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
